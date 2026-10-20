@@ -1,0 +1,4 @@
+# Keep Unix line endings so scripts and container files work when checked out on Windows
+*.sh text eol=lf
+Dockerfile text eol=lf
+*.yml text eol=lf
