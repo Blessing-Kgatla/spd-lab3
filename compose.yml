@@ -1,3 +1,6 @@
+# AI Declaration: Generation, Review - Claude Code (Anthropic). Claude Code wrote this
+# file and tested it with automark.sh; I reviewed, ran and verified it myself.
+
 services:
   app:
     build:

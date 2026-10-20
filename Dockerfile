@@ -1,4 +1,7 @@
 # syntax=docker/dockerfile:1
+# AI Declaration: Generation, Review - Claude Code (Anthropic). Claude Code wrote this
+# file and tested it with automark.sh; I reviewed, ran and verified it myself.
+
 
 # ---- Build stage: install all deps and compile the SvelteKit app ----
 FROM node:22-alpine AS build
